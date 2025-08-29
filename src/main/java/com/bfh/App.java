@@ -31,9 +31,9 @@ public class App {
             String url = "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA";
 
             Map<String, String> body = Map.of(
-                    "name", "Your Name",
-                    "regNo", "REG12347",   // 🔹 put your real regNo here
-                    "email", "your.email@example.com"
+                    "name", "Meenakshi Dogiparti",
+                    "regNo", "22BCE9608",   
+                    "email", "meenakshi.22bce9608@vitapstudent.ac.in"
             );
 
             HttpHeaders headers = new HttpHeaders();
